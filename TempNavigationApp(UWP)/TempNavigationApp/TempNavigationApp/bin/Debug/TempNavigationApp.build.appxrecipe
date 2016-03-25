@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>PC-ELVIS</Machine>
+    <WindowsUser>Administrator</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>f1d48be8-411f-49d6-8c9b-6ef3d6852538</PackageIdentityName>
+    <IntermediateOutputPath>G:\Cases\Javascript\[WINJS][UWP] GoBack Button on TitleBar\TempNavigationApp%28UWP%29\TempNavigationApp\TempNavigationApp\bld\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="G:\Cases\Javascript\[WINJS][UWP] GoBack Button on TitleBar\TempNavigationApp%28UWP%29\TempNavigationApp\TempNavigationApp\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="G:\Cases\Javascript\[WINJS][UWP] GoBack Button on TitleBar\TempNavigationApp%28UWP%29\TempNavigationApp\TempNavigationApp\default.html">
+      <PackagePath>default.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Cases\Javascript\[WINJS][UWP] GoBack Button on TitleBar\TempNavigationApp%28UWP%29\TempNavigationApp\TempNavigationApp\pages\home\home.html">
+      <PackagePath>pages\home\home.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Cases\Javascript\[WINJS][UWP] GoBack Button on TitleBar\TempNavigationApp%28UWP%29\TempNavigationApp\TempNavigationApp\pages\pageOne\pageOne.html">
+      <PackagePath>pages\pageOne\pageOne.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Cases\Javascript\[WINJS][UWP] GoBack Button on TitleBar\TempNavigationApp%28UWP%29\TempNavigationApp\TempNavigationApp\images\LockScreenLogo.scale-200.png">
+      <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Cases\Javascript\[WINJS][UWP] GoBack Button on TitleBar\TempNavigationApp%28UWP%29\TempNavigationApp\TempNavigationApp\images\SplashScreen.scale-200.png">
+      <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Cases\Javascript\[WINJS][UWP] GoBack Button on TitleBar\TempNavigationApp%28UWP%29\TempNavigationApp\TempNavigationApp\images\Square150x150Logo.scale-200.png">
+      <PackagePath>images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Cases\Javascript\[WINJS][UWP] GoBack Button on TitleBar\TempNavigationApp%28UWP%29\TempNavigationApp\TempNavigationApp\images\Square44x44Logo.scale-200.png">
+      <PackagePath>images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Cases\Javascript\[WINJS][UWP] GoBack Button on TitleBar\TempNavigationApp%28UWP%29\TempNavigationApp\TempNavigationApp\images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Cases\Javascript\[WINJS][UWP] GoBack Button on TitleBar\TempNavigationApp%28UWP%29\TempNavigationApp\TempNavigationApp\images\StoreLogo.png">
+      <PackagePath>images\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Cases\Javascript\[WINJS][UWP] GoBack Button on TitleBar\TempNavigationApp%28UWP%29\TempNavigationApp\TempNavigationApp\images\Wide310x150Logo.scale-200.png">
+      <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Cases\Javascript\[WINJS][UWP] GoBack Button on TitleBar\TempNavigationApp%28UWP%29\TempNavigationApp\TempNavigationApp\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Cases\Javascript\[WINJS][UWP] GoBack Button on TitleBar\TempNavigationApp%28UWP%29\TempNavigationApp\TempNavigationApp\js\navigator.js">
+      <PackagePath>js\navigator.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Cases\Javascript\[WINJS][UWP] GoBack Button on TitleBar\TempNavigationApp%28UWP%29\TempNavigationApp\TempNavigationApp\pages\home\home.js">
+      <PackagePath>pages\home\home.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Cases\Javascript\[WINJS][UWP] GoBack Button on TitleBar\TempNavigationApp%28UWP%29\TempNavigationApp\TempNavigationApp\pages\pageOne\pageOne.js">
+      <PackagePath>pages\pageOne\pageOne.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Cases\Javascript\[WINJS][UWP] GoBack Button on TitleBar\TempNavigationApp%28UWP%29\TempNavigationApp\TempNavigationApp\WinJS\js\en-US\ui.strings.js">
+      <PackagePath>WinJS\js\en-US\ui.strings.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Cases\Javascript\[WINJS][UWP] GoBack Button on TitleBar\TempNavigationApp%28UWP%29\TempNavigationApp\TempNavigationApp\WinJS\js\base.js">
+      <PackagePath>WinJS\js\base.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Cases\Javascript\[WINJS][UWP] GoBack Button on TitleBar\TempNavigationApp%28UWP%29\TempNavigationApp\TempNavigationApp\WinJS\js\ui.js">
+      <PackagePath>WinJS\js\ui.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Cases\Javascript\[WINJS][UWP] GoBack Button on TitleBar\TempNavigationApp%28UWP%29\TempNavigationApp\TempNavigationApp\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Cases\Javascript\[WINJS][UWP] GoBack Button on TitleBar\TempNavigationApp%28UWP%29\TempNavigationApp\TempNavigationApp\pages\home\home.css">
+      <PackagePath>pages\home\home.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Cases\Javascript\[WINJS][UWP] GoBack Button on TitleBar\TempNavigationApp%28UWP%29\TempNavigationApp\TempNavigationApp\pages\pageOne\pageOne.css">
+      <PackagePath>pages\pageOne\pageOne.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Cases\Javascript\[WINJS][UWP] GoBack Button on TitleBar\TempNavigationApp%28UWP%29\TempNavigationApp\TempNavigationApp\WinJS\css\ui-dark.css">
+      <PackagePath>WinJS\css\ui-dark.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Cases\Javascript\[WINJS][UWP] GoBack Button on TitleBar\TempNavigationApp%28UWP%29\TempNavigationApp\TempNavigationApp\WinJS\css\ui-light.css">
+      <PackagePath>WinJS\css\ui-light.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Cases\Javascript\[WINJS][UWP] GoBack Button on TitleBar\TempNavigationApp%28UWP%29\TempNavigationApp\TempNavigationApp\WinJS\fonts\Symbols.ttf">
+      <PackagePath>WinJS\fonts\Symbols.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Cases\Javascript\[WINJS][UWP] GoBack Button on TitleBar\TempNavigationApp%28UWP%29\TempNavigationApp\TempNavigationApp\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

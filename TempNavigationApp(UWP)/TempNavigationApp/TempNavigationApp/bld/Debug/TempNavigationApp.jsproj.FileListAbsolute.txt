@@ -1,0 +1,16 @@
+G:\Cases\Javascript\[WINJS][UWP] GoBack Button on TitleBar\TempNavigationApp(UWP)\TempNavigationApp\TempNavigationApp\bin\Debug\ReverseMap\resources.pri
+G:\Cases\Javascript\[WINJS][UWP] GoBack Button on TitleBar\TempNavigationApp(UWP)\TempNavigationApp\TempNavigationApp\bin\Debug\AppxManifest.xml
+G:\Cases\Javascript\[WINJS][UWP] GoBack Button on TitleBar\TempNavigationApp(UWP)\TempNavigationApp\TempNavigationApp\bin\Debug\TempNavigationApp.build.appxrecipe
+G:\Cases\Javascript\[WINJS][UWP] GoBack Button on TitleBar\TempNavigationApp(UWP)\TempNavigationApp\TempNavigationApp\bld\Debug\ResourceHandlingTask.state
+G:\Cases\Javascript\[WINJS][UWP] GoBack Button on TitleBar\TempNavigationApp(UWP)\TempNavigationApp\TempNavigationApp\bld\Debug\priconfig.xml
+G:\Cases\Javascript\[WINJS][UWP] GoBack Button on TitleBar\TempNavigationApp(UWP)\TempNavigationApp\TempNavigationApp\bld\Debug\priconfig.xml.intermediate
+G:\Cases\Javascript\[WINJS][UWP] GoBack Button on TitleBar\TempNavigationApp(UWP)\TempNavigationApp\TempNavigationApp\bld\Debug\layout.resfiles
+G:\Cases\Javascript\[WINJS][UWP] GoBack Button on TitleBar\TempNavigationApp(UWP)\TempNavigationApp\TempNavigationApp\bld\Debug\layout.resfiles.intermediate
+G:\Cases\Javascript\[WINJS][UWP] GoBack Button on TitleBar\TempNavigationApp(UWP)\TempNavigationApp\TempNavigationApp\bld\Debug\resources.resfiles
+G:\Cases\Javascript\[WINJS][UWP] GoBack Button on TitleBar\TempNavigationApp(UWP)\TempNavigationApp\TempNavigationApp\bld\Debug\resources.resfiles.intermediate
+G:\Cases\Javascript\[WINJS][UWP] GoBack Button on TitleBar\TempNavigationApp(UWP)\TempNavigationApp\TempNavigationApp\bld\Debug\pri.resfiles
+G:\Cases\Javascript\[WINJS][UWP] GoBack Button on TitleBar\TempNavigationApp(UWP)\TempNavigationApp\TempNavigationApp\bld\Debug\pri.resfiles.intermediate
+G:\Cases\Javascript\[WINJS][UWP] GoBack Button on TitleBar\TempNavigationApp(UWP)\TempNavigationApp\TempNavigationApp\bld\Debug\qualifiers.txt
+G:\Cases\Javascript\[WINJS][UWP] GoBack Button on TitleBar\TempNavigationApp(UWP)\TempNavigationApp\TempNavigationApp\bld\Debug\qualifiers.txt.intermediate
+G:\Cases\Javascript\[WINJS][UWP] GoBack Button on TitleBar\TempNavigationApp(UWP)\TempNavigationApp\TempNavigationApp\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+G:\Cases\Javascript\[WINJS][UWP] GoBack Button on TitleBar\TempNavigationApp(UWP)\TempNavigationApp\TempNavigationApp\bld\Debug\ProjectArchitectures.txt
