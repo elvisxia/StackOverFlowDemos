@@ -1,0 +1,16 @@
+G:\Temp\ShareSample\ShareSample\bin\Debug\ReverseMap\resources.pri
+G:\Temp\ShareSample\ShareSample\bin\Debug\AppxManifest.xml
+G:\Temp\ShareSample\ShareSample\bin\Debug\ShareSample.build.appxrecipe
+G:\Temp\ShareSample\ShareSample\bld\Debug\ResourceHandlingTask.state
+G:\Temp\ShareSample\ShareSample\bld\Debug\priconfig.xml
+G:\Temp\ShareSample\ShareSample\bld\Debug\priconfig.xml.intermediate
+G:\Temp\ShareSample\ShareSample\bld\Debug\layout.resfiles
+G:\Temp\ShareSample\ShareSample\bld\Debug\layout.resfiles.intermediate
+G:\Temp\ShareSample\ShareSample\bld\Debug\resources.resfiles
+G:\Temp\ShareSample\ShareSample\bld\Debug\resources.resfiles.intermediate
+G:\Temp\ShareSample\ShareSample\bld\Debug\pri.resfiles
+G:\Temp\ShareSample\ShareSample\bld\Debug\pri.resfiles.intermediate
+G:\Temp\ShareSample\ShareSample\bld\Debug\qualifiers.txt
+G:\Temp\ShareSample\ShareSample\bld\Debug\qualifiers.txt.intermediate
+G:\Temp\ShareSample\ShareSample\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+G:\Temp\ShareSample\ShareSample\bld\Debug\ProjectArchitectures.txt

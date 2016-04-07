@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>PC-ELVIS</Machine>
+    <WindowsUser>Administrator</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>633fb4ec-cd1b-4efa-be2e-3ee476bbeadd</PackageIdentityName>
+    <IntermediateOutputPath>G:\Temp\ShareSample\ShareSample\bld\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>E7426BD6D2F13E9322A6EA85EC95C15FAB295068FF5632F663072B94195594C5</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>633fb4ec-cd1b-4efa-be2e-3ee476bbeadd_1.0.0.0_neutral__75cr2b68sm664</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>633fb4ec-cd1b-4efa-be2e-3ee476bbeadd_75cr2b68sm664!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>633fb4ec-cd1b-4efa-be2e-3ee476bbeadd</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Administrator</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="G:\Temp\ShareSample\ShareSample\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-04-06T06:47:34.949</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="G:\Temp\ShareSample\ShareSample\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2016-04-07T01:52:21.756</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Temp\ShareSample\ShareSample\images\LockScreenLogo.scale-200.png">
+      <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2015-10-10T13:09:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Temp\ShareSample\ShareSample\images\SplashScreen.scale-200.png">
+      <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-10T13:09:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Temp\ShareSample\ShareSample\images\Square150x150Logo.scale-200.png">
+      <PackagePath>images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-10T13:09:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Temp\ShareSample\ShareSample\images\Square44x44Logo.scale-200.png">
+      <PackagePath>images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-10T13:09:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Temp\ShareSample\ShareSample\images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-10T13:09:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Temp\ShareSample\ShareSample\images\StoreLogo.png">
+      <PackagePath>images\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-10T13:09:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Temp\ShareSample\ShareSample\images\Wide310x150Logo.scale-200.png">
+      <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-10T13:09:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Temp\ShareSample\ShareSample\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2016-04-07T01:56:13.959</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Temp\ShareSample\ShareSample\WinJS\js\en-US\ui.strings.js">
+      <PackagePath>WinJS\js\en-US\ui.strings.js</PackagePath>
+      <Modified>2015-10-10T13:09:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Temp\ShareSample\ShareSample\WinJS\js\base.js">
+      <PackagePath>WinJS\js\base.js</PackagePath>
+      <Modified>2015-10-10T13:09:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Temp\ShareSample\ShareSample\WinJS\js\ui.js">
+      <PackagePath>WinJS\js\ui.js</PackagePath>
+      <Modified>2015-10-10T13:09:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Temp\ShareSample\ShareSample\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2015-10-10T13:09:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Temp\ShareSample\ShareSample\WinJS\css\ui-dark.css">
+      <PackagePath>WinJS\css\ui-dark.css</PackagePath>
+      <Modified>2015-10-10T13:09:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Temp\ShareSample\ShareSample\WinJS\css\ui-light.css">
+      <PackagePath>WinJS\css\ui-light.css</PackagePath>
+      <Modified>2015-10-10T13:09:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Temp\ShareSample\ShareSample\WinJS\fonts\Symbols.ttf">
+      <PackagePath>WinJS\fonts\Symbols.ttf</PackagePath>
+      <Modified>2015-10-10T13:09:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Temp\ShareSample\ShareSample\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-04-06T06:47:34.880</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
