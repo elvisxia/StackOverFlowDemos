@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>PC-ELVIS</Machine>
+    <WindowsUser>Administrator</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>7cebe86f-8415-47af-900e-6dadd3f07e04</PackageIdentityName>
+    <IntermediateOutputPath>G:\Temp\TestApp%28windows8%29\TestApp%28windows8%29\bld\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>FAE7AB6CD7BADFD62F842CA6D1FB092C7BC7617DC52A7E0F90CA76FF026F8943</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>7cebe86f-8415-47af-900e-6dadd3f07e04_1.0.0.0_neutral__75cr2b68sm664</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>7cebe86f-8415-47af-900e-6dadd3f07e04_75cr2b68sm664!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>7cebe86f-8415-47af-900e-6dadd3f07e04</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Administrator</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="G:\Temp\TestApp%28windows8%29\TestApp%28windows8%29\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-04-07T09:33:45.411</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="G:\Temp\TestApp%28windows8%29\TestApp%28windows8%29\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2016-04-08T04:24:35.367</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Temp\TestApp%28windows8%29\TestApp%28windows8%29\images\logo.scale-100.png">
+      <PackagePath>images\logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T14:02:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Temp\TestApp%28windows8%29\TestApp%28windows8%29\images\smalllogo.scale-100.png">
+      <PackagePath>images\smalllogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T14:02:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Temp\TestApp%28windows8%29\TestApp%28windows8%29\images\splashscreen.scale-100.png">
+      <PackagePath>images\splashscreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T14:02:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Temp\TestApp%28windows8%29\TestApp%28windows8%29\images\storelogo.scale-100.png">
+      <PackagePath>images\storelogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T14:02:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Temp\TestApp%28windows8%29\TestApp%28windows8%29\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2016-04-08T05:34:12.303</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Temp\TestApp%28windows8%29\TestApp%28windows8%29\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2015-07-06T14:02:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Temp\TestApp%28windows8%29\TestApp%28windows8%29\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-04-07T09:33:45.232</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\">
+      <Name>Microsoft.WinJS.2.0</Name>
+      <Version>1.0.9600.17018</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.2.0, MinVersion=1.0.9600.17018</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\Microsoft.WinJS.2.0.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkId=260891</MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

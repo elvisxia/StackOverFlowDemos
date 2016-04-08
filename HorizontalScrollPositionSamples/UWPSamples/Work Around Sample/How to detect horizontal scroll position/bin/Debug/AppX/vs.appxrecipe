@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>PC-ELVIS</Machine>
+    <WindowsUser>Administrator</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>f2256e91-06df-4e63-aff2-941e4c6dd494</PackageIdentityName>
+    <IntermediateOutputPath>G:\Temp\How to detect horizontal scroll position\How to detect horizontal scroll position\bld\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>0851B75DB09EBEAA21B642500324040F93BD00BB6505FCE8C9D0CFA01AAC1680</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>f2256e91-06df-4e63-aff2-941e4c6dd494_1.0.0.0_neutral__75cr2b68sm664</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>f2256e91-06df-4e63-aff2-941e4c6dd494_75cr2b68sm664!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>f2256e91-06df-4e63-aff2-941e4c6dd494</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Administrator</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="G:\Temp\How to detect horizontal scroll position\How to detect horizontal scroll position\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-04-07T09:04:45.122</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="G:\Temp\How to detect horizontal scroll position\How to detect horizontal scroll position\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2016-04-08T05:37:15.892</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Temp\How to detect horizontal scroll position\How to detect horizontal scroll position\images\LockScreenLogo.scale-200.png">
+      <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2015-10-10T13:09:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Temp\How to detect horizontal scroll position\How to detect horizontal scroll position\images\SplashScreen.scale-200.png">
+      <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-10T13:09:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Temp\How to detect horizontal scroll position\How to detect horizontal scroll position\images\Square150x150Logo.scale-200.png">
+      <PackagePath>images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-10T13:09:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Temp\How to detect horizontal scroll position\How to detect horizontal scroll position\images\Square44x44Logo.scale-200.png">
+      <PackagePath>images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-10T13:09:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Temp\How to detect horizontal scroll position\How to detect horizontal scroll position\images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-10T13:09:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Temp\How to detect horizontal scroll position\How to detect horizontal scroll position\images\StoreLogo.png">
+      <PackagePath>images\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-10T13:09:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Temp\How to detect horizontal scroll position\How to detect horizontal scroll position\images\Wide310x150Logo.scale-200.png">
+      <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-10T13:09:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Temp\How to detect horizontal scroll position\How to detect horizontal scroll position\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2016-04-08T05:37:31.572</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Temp\How to detect horizontal scroll position\How to detect horizontal scroll position\WinJS\js\en-US\ui.strings.js">
+      <PackagePath>WinJS\js\en-US\ui.strings.js</PackagePath>
+      <Modified>2015-10-10T13:09:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Temp\How to detect horizontal scroll position\How to detect horizontal scroll position\WinJS\js\base.js">
+      <PackagePath>WinJS\js\base.js</PackagePath>
+      <Modified>2015-10-10T13:09:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Temp\How to detect horizontal scroll position\How to detect horizontal scroll position\WinJS\js\ui.js">
+      <PackagePath>WinJS\js\ui.js</PackagePath>
+      <Modified>2015-10-10T13:09:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Temp\How to detect horizontal scroll position\How to detect horizontal scroll position\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2015-10-10T13:09:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Temp\How to detect horizontal scroll position\How to detect horizontal scroll position\WinJS\css\ui-dark.css">
+      <PackagePath>WinJS\css\ui-dark.css</PackagePath>
+      <Modified>2015-10-10T13:09:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Temp\How to detect horizontal scroll position\How to detect horizontal scroll position\WinJS\css\ui-light.css">
+      <PackagePath>WinJS\css\ui-light.css</PackagePath>
+      <Modified>2015-10-10T13:09:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Temp\How to detect horizontal scroll position\How to detect horizontal scroll position\WinJS\fonts\Symbols.ttf">
+      <PackagePath>WinJS\fonts\Symbols.ttf</PackagePath>
+      <Modified>2015-10-10T13:09:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Temp\How to detect horizontal scroll position\How to detect horizontal scroll position\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-04-07T09:04:44.453</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

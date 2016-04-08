@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\HorizontalScrollPositionSamples\UWPSamples\ProblemSample\ProblemSample\bin\Debug\ReverseMap\resources.pri
+C:\Users\Administrator\Desktop\HorizontalScrollPositionSamples\UWPSamples\ProblemSample\ProblemSample\bin\Debug\AppxManifest.xml
+C:\Users\Administrator\Desktop\HorizontalScrollPositionSamples\UWPSamples\ProblemSample\ProblemSample\bin\Debug\ProblemSample.build.appxrecipe
+C:\Users\Administrator\Desktop\HorizontalScrollPositionSamples\UWPSamples\ProblemSample\ProblemSample\bld\Debug\ResourceHandlingTask.state
+C:\Users\Administrator\Desktop\HorizontalScrollPositionSamples\UWPSamples\ProblemSample\ProblemSample\bld\Debug\priconfig.xml
+C:\Users\Administrator\Desktop\HorizontalScrollPositionSamples\UWPSamples\ProblemSample\ProblemSample\bld\Debug\priconfig.xml.intermediate
+C:\Users\Administrator\Desktop\HorizontalScrollPositionSamples\UWPSamples\ProblemSample\ProblemSample\bld\Debug\layout.resfiles
+C:\Users\Administrator\Desktop\HorizontalScrollPositionSamples\UWPSamples\ProblemSample\ProblemSample\bld\Debug\layout.resfiles.intermediate
+C:\Users\Administrator\Desktop\HorizontalScrollPositionSamples\UWPSamples\ProblemSample\ProblemSample\bld\Debug\resources.resfiles
+C:\Users\Administrator\Desktop\HorizontalScrollPositionSamples\UWPSamples\ProblemSample\ProblemSample\bld\Debug\resources.resfiles.intermediate
+C:\Users\Administrator\Desktop\HorizontalScrollPositionSamples\UWPSamples\ProblemSample\ProblemSample\bld\Debug\pri.resfiles
+C:\Users\Administrator\Desktop\HorizontalScrollPositionSamples\UWPSamples\ProblemSample\ProblemSample\bld\Debug\pri.resfiles.intermediate
+C:\Users\Administrator\Desktop\HorizontalScrollPositionSamples\UWPSamples\ProblemSample\ProblemSample\bld\Debug\qualifiers.txt
+C:\Users\Administrator\Desktop\HorizontalScrollPositionSamples\UWPSamples\ProblemSample\ProblemSample\bld\Debug\qualifiers.txt.intermediate
+C:\Users\Administrator\Desktop\HorizontalScrollPositionSamples\UWPSamples\ProblemSample\ProblemSample\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Administrator\Desktop\HorizontalScrollPositionSamples\UWPSamples\ProblemSample\ProblemSample\bld\Debug\ProjectArchitectures.txt

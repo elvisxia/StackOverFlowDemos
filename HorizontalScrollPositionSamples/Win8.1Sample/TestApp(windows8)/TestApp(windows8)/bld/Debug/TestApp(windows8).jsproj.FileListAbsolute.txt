@@ -1,0 +1,15 @@
+G:\Temp\TestApp(windows8)\TestApp(windows8)\bin\Debug\ReverseMap\resources.pri
+G:\Temp\TestApp(windows8)\TestApp(windows8)\bin\Debug\AppxManifest.xml
+G:\Temp\TestApp(windows8)\TestApp(windows8)\bin\Debug\TestApp(windows8).build.appxrecipe
+G:\Temp\TestApp(windows8)\TestApp(windows8)\bld\Debug\priconfig.xml
+G:\Temp\TestApp(windows8)\TestApp(windows8)\bld\Debug\priconfig.xml.intermediate
+G:\Temp\TestApp(windows8)\TestApp(windows8)\bld\Debug\layout.resfiles
+G:\Temp\TestApp(windows8)\TestApp(windows8)\bld\Debug\layout.resfiles.intermediate
+G:\Temp\TestApp(windows8)\TestApp(windows8)\bld\Debug\resources.resfiles
+G:\Temp\TestApp(windows8)\TestApp(windows8)\bld\Debug\resources.resfiles.intermediate
+G:\Temp\TestApp(windows8)\TestApp(windows8)\bld\Debug\pri.resfiles
+G:\Temp\TestApp(windows8)\TestApp(windows8)\bld\Debug\pri.resfiles.intermediate
+G:\Temp\TestApp(windows8)\TestApp(windows8)\bld\Debug\qualifiers.txt
+G:\Temp\TestApp(windows8)\TestApp(windows8)\bld\Debug\qualifiers.txt.intermediate
+G:\Temp\TestApp(windows8)\TestApp(windows8)\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+G:\Temp\TestApp(windows8)\TestApp(windows8)\bld\Debug\ProjectArchitectures.txt

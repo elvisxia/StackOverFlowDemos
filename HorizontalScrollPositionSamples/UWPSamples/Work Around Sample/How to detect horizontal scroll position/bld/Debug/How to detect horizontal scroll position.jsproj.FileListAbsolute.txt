@@ -1,0 +1,16 @@
+G:\Temp\How to detect horizontal scroll position\How to detect horizontal scroll position\bin\Debug\ReverseMap\resources.pri
+G:\Temp\How to detect horizontal scroll position\How to detect horizontal scroll position\bin\Debug\AppxManifest.xml
+G:\Temp\How to detect horizontal scroll position\How to detect horizontal scroll position\bin\Debug\How to detect horizontal scroll position.build.appxrecipe
+G:\Temp\How to detect horizontal scroll position\How to detect horizontal scroll position\bld\Debug\ResourceHandlingTask.state
+G:\Temp\How to detect horizontal scroll position\How to detect horizontal scroll position\bld\Debug\priconfig.xml
+G:\Temp\How to detect horizontal scroll position\How to detect horizontal scroll position\bld\Debug\priconfig.xml.intermediate
+G:\Temp\How to detect horizontal scroll position\How to detect horizontal scroll position\bld\Debug\layout.resfiles
+G:\Temp\How to detect horizontal scroll position\How to detect horizontal scroll position\bld\Debug\layout.resfiles.intermediate
+G:\Temp\How to detect horizontal scroll position\How to detect horizontal scroll position\bld\Debug\resources.resfiles
+G:\Temp\How to detect horizontal scroll position\How to detect horizontal scroll position\bld\Debug\resources.resfiles.intermediate
+G:\Temp\How to detect horizontal scroll position\How to detect horizontal scroll position\bld\Debug\pri.resfiles
+G:\Temp\How to detect horizontal scroll position\How to detect horizontal scroll position\bld\Debug\pri.resfiles.intermediate
+G:\Temp\How to detect horizontal scroll position\How to detect horizontal scroll position\bld\Debug\qualifiers.txt
+G:\Temp\How to detect horizontal scroll position\How to detect horizontal scroll position\bld\Debug\qualifiers.txt.intermediate
+G:\Temp\How to detect horizontal scroll position\How to detect horizontal scroll position\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+G:\Temp\How to detect horizontal scroll position\How to detect horizontal scroll position\bld\Debug\ProjectArchitectures.txt
