@@ -1,0 +1,1 @@
+G:\CordovaTemp\VS\2016_0414\SQLiteSample\SQLiteSample\SQLiteSample.csproj;x86
