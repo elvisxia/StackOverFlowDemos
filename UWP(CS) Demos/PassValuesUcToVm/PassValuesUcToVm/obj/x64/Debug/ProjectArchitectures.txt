@@ -1,0 +1,1 @@
+G:\CordovaTemp\VS\2016_0413\PassValuesUcToVm\PassValuesUcToVm\PassValuesUcToVm.csproj;x64
